@@ -30,3 +30,6 @@
 
 
 My favorite search engine is [Google](https://google.com).
+
+
+<img height="100" src="Images/san-juan-mountains.jpg.webp" width="240"/>
