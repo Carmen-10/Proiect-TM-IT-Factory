@@ -11,3 +11,5 @@
    1. Orange1
    2. Orange2
 6. Fourth item
+![Tux, the Linux mascot](/assets/images/tux.png)
+
